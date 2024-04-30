@@ -133,4 +133,6 @@ export function syncedStore<T extends DocTypeDescription>(shape: T, doc: Y.Doc =
   return crdtDoc<T>(doc, shape);
 }
 
+export { type MappedTypeDescription } from "./doc";
+
 export default syncedStore;
