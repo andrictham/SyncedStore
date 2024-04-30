@@ -1,5 +1,5 @@
 {
-  "name": "@syncedstore/react",
+  "name": "@andrictham/syncedstore-react",
   "description": "React hook useSyncedStore for SyncedStore.",
   "keywords": [
     "reactive",

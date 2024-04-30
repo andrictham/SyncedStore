@@ -1,5 +1,5 @@
 {
-  "name": "@syncedstore/svelte",
+  "name": "@andrictham/syncedstore-svelte",
   "description": "Svelte helper for SyncedStore.",
   "keywords": [
     "reactive",
